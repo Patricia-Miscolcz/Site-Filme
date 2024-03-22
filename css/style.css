@@ -67,7 +67,7 @@ nav{
 .parte2{
     width: 50%;
     height: 100%;
-    background-image: url(/imgs/imagem1.png);
+    background-image: url('./imgs/imagem1.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
